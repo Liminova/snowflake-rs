@@ -1,5 +1,7 @@
 # snowflake-rs
 
+> This crate is as completed as my current knowledge allows. It's free of unsafe code for extreme performance tweaks, has zero dependencies, and the compiler doesn't scream at me. Going forward, expect only Rust edition bumps and bug fixes (as if there were any).
+
 ## Usage
 
 ```bash
